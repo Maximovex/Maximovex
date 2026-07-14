@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning everything related to ML, especially math.
+- - 📫 How to reach me: @mximove TG.
 <!--
 **Maximovex/Maximovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
