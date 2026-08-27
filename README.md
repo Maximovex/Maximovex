@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning everything related to ML, especially math.
-- 📫 How to reach me: [TG](t.me/mximove).
+- 📫 How to reach me: [TG](https://t.me/mximove).
 <!--
 **Maximovex/Maximovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
