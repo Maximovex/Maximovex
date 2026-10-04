@@ -1,6 +1,7 @@
+[![@Maximovex](https://img.shields.io/badge/Telegram-2CAE50?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maximovex)
 ## Hi there 👋
 - 🌱 I’m currently learning everything related to ML, especially math.
-- 📫 How to reach me: [![@Maximovex](https://img.shields.io/badge/Telegram-2CAE50?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maximovex)
+
 <!--
 **Maximovex/Maximovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
