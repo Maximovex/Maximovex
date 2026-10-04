@@ -1,4 +1,4 @@
-[![@Maximovex](https://img.shields.io/badge/Telegram-2CAE50?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maximovex)
+[![@Maximovex](https://img.shields.io/badge/Telegram-2CAE50?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mximove)
 ## Hi there 👋
 - 🌱 I’m currently learning everything related to ML, especially math.
 
